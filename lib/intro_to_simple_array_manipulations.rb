@@ -40,3 +40,6 @@ end
 def using_uniq(haircuts)
   haircuts.uniq
 end
+
+def using_flatten
+  
