@@ -13,3 +13,10 @@ def using_pop(continents)
   continents.pop("Antarctica")
 end
 
+def using_pop(array)
+  return array.pop 
+end
+
+ def pop_with_args(array)
+  array.pop(2)
+end
