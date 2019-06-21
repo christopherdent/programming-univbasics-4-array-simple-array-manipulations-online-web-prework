@@ -29,7 +29,7 @@ def shift_with_args(array)
   array.shift(2)
 end
 
-def using_concat(array)
+def using_concat(my_favorite_things, more_favs)
   all_my_favs = my_favorite_things + more_favs
 end
   
