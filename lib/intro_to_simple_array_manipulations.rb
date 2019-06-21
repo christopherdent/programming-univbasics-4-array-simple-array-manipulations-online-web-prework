@@ -44,3 +44,9 @@ end
 def using_flatten(instruments)
   instruments.flatten 
 end
+
+def using_delete
+end
+
+def using_delete_at
+end
